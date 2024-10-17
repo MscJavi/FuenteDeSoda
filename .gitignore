@@ -1,0 +1,46 @@
+/Backend/BackendApiService/.vs
+/Backend/BackendApiService/*/obj/
+/Backend/BackendApiService/*/bin/
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/Frontend/frontend/dist
+/Frontend/frontend/tmp
+/Frontend/frontend/out-tsc
+/Frontend/frontend/bazel-out
+
+# Node
+/Frontend/frontend/node_modules
+/Frontend/frontend/npm-debug.log
+/Frontend/frontend/yarn-error.log
+
+# IDEs and editors
+/Frontend/frontend/.idea/
+/Frontend/frontend/.project
+/Frontend/frontend/.classpath
+/Frontend/frontend/.c9/
+/Frontend/frontend/*.launch
+/Frontend/frontend/.settings/
+/Frontend/frontend/*.sublime-workspace
+
+# Visual Studio Code
+/Frontend/frontend/.vscode/*
+/Frontend/frontend/!.vscode/settings.json
+/Frontend/frontend/!.vscode/tasks.json
+/Frontend/frontend/!.vscode/launch.json
+/Frontend/frontend/!.vscode/extensions.json
+/Frontend/frontend/.history/*
+
+# Miscellaneous
+/Frontend/frontend/.angular/cache
+/Frontend/frontend/.sass-cache/
+/Frontend/frontend/connect.lock
+/Frontend/frontend/coverage
+/Frontend/frontend/libpeerconnection.log
+/Frontend/frontend/testem.log
+/Frontend/frontend/typings
+
+# System files
+/Frontend/frontend/.DS_Store
+/Frontend/frontend/Thumbs.db
